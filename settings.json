@@ -9,7 +9,7 @@
     "ip": "Spy16_rec.aternos.me",
     "port": 16392,
     "version": "1.21.11",
-    "try-creative": true
+    "try-creative": false
   },
   "position": {
     "enabled": true,
