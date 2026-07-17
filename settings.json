@@ -56,7 +56,7 @@
     }
   },
   "modules": {
-    "avoidMobs": false,
+    "avoidMobs": true,
     "combat": true,
     "beds": true,
     "chat": true,
