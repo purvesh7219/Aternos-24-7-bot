@@ -35,28 +35,28 @@
       ]
     },
     "chat-log": true,
-    "auto-reconnect": false,
-    "auto-reconnect-delay": 200,
-    "max-reconnect-delay": 600
+    "auto-reconnect": true,
+    "auto-reconnect-delay": 300,
+    "max-reconnect-delay": 3000
   },
   "movement": {
     "enabled": true,
     "circle-walk": {
       "enabled": true,
-      "radius": 128,
+      "radius": 8,
       "speed": 3000
     },
     "look-around": {
       "enabled": true,
-      "interval": 600
+      "interval": 5000
     },
     "random-jump": {
       "enabled": true,
-      "interval": 300
+      "interval": 5000
     }
   },
   "modules": {
-    "avoidMobs": true,
+    "avoidMobs": false,
     "combat": true,
     "beds": true,
     "chat": true,
